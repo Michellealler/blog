@@ -1,0 +1,18 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "background: linear-gradient(92deg,#ffba40,#ff503e 37%,#ff2f50 81%,#ff1b40);",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-session": "^1.4.0",
+    "ejs": "2.7.2",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "keywords": []
+}
